@@ -35,7 +35,7 @@ Aplikasi ini menggunakan *Flutter* sebagai frontend (mobile app) dan *Laravel* s
 ## ⚙ Cara Menjalankan
 ### Backend (Laravel)
 1. Clone repository ini  
-2. Masuk folder backend/  
+2. Masuk folder laravel 
 3. Jalankan perintah:
    bash
    composer install
@@ -49,7 +49,7 @@ Laravel akan berjalan di http://127.0.0.1:8000
 
 ### Frontend (Flutter)
 
-1. Masuk folder frontend/
+1. Masuk folder flutter
 2. Jalankan:
 
    bash
