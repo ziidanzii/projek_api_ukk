@@ -65,7 +65,6 @@ Laravel akan berjalan di http://127.0.0.1:8000
 
 * Project ini masih *tahap awal* dan akan dikembangkan lebih lanjut untuk keperluan *UKK*.
 * Backend dan frontend sudah saling terhubung.
-* Screenshot disimpan di folder docs/screenshots/.
 
 ---
 
