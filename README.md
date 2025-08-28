@@ -76,5 +76,3 @@ Dilarang keras memperjualbelikan tanpa izin.
 
 
 ---
-
-Mau saya sekalian bikinkan **struktur folder docs/screenshots/** di project ini biar nanti tinggal isi gambarnya?
